@@ -80,7 +80,11 @@
     ],
     "RIACS": [
         "riacs (riacs)",
-        "riacs (united states)"
+        "riacs (united states)",
+        "research institute for advanced computer science (united states)",
+        "usra research institute for advanced computer science (usra research institute for advanced computer science)",
+        "usra research institute for advanced computer science (united states)",
+        "research institute of advanced computer science (united states)"
     ],
     "Zhejiang Sci-Tech University (ZSTU)": [
         "zstu (china)"
@@ -832,7 +836,8 @@
         "kaist, daejeon, 34141, south korea (south korea)",
         "kaist, south korea (south korea)",
         "kaist (south korea)",
-        "291 daehak ro, daejeon, yuseong gu, 34141, south korea (south korea)"
+        "291 daehak ro, daejeon, yuseong gu, 34141, south korea (south korea)",
+        "korea advanced institute of science and technology (south korea)"
     ],
     "KIST": [
         "kist (south korea)",
@@ -1060,7 +1065,8 @@
     "European Space Agency (ESA)": [
         "esa (lebanon)",
         "esa (germany)",
-        "esa (italy)"
+        "esa (italy)",
+        "european space agency (italy)"
     ],
     "Jawaharlal Nehru Technological University (JNTU)": [
         "jntua college of engineering (india)",
@@ -1461,11 +1467,13 @@
         "bolu abant izzet baysal university, bolu, turkey (turkey)",
         "bolu abant izzet baysal university (turkey)"
     ],
-    "Meta Platforms, Inc.": [
+    "Meta": [
         "meta platforms inc. (united states)",
         "meta (united states)",
         "meta analytics (united states)",
-        "meta inc. (united states)"
+        "meta inc. (united states)",
+        "facebook, inc. (united states)",
+        "facebook (united states)"
     ],
     "Meta Materials Inc.": [
         "meta materials inc. (united states)"
@@ -1777,10 +1785,15 @@
         "keysight technologies canada inc. (canada)",
         "keysight technologies (keysight technologies)"
     ],
-    "MIT CSAIL": [
+    "MIT": [
         "mit csail (united states)",
         "csail (united states)",
-        "mit csail, united states (united states)"
+        "mit csail, united states (united states)",
+        "research laboratory of electronics (united states)",
+        "research laboratory for electronics (united states)",
+        "lincoln laboratory (united states)",
+        "mit (united states)",
+        "mit center for theoretical physics (united states)"
     ],
     "E.ON": [
         "e.on se (germany)",
@@ -1981,11 +1994,20 @@
     "MIET (Russian Federation)": [
         "miet (russian federation)"
     ],
-    "Harvard T.H. Chan School of Public Health": [
+    "Harvard University": [
         "harvard t.h. chan school of public health (united states)",
         "t.h. chan school of public health (united states)",
         "harvard t. h. chan school of public health (united states)",
-        "harvard t h chan school of public health (united states)"
+        "harvard t h chan school of public health (united states)",
+        "harvard paulson school of engineering and applied sciences (united states)",
+        "harvard john a. paulson school of engineering and applied sciences (united states)",
+        "john a. paulson school of engineering and applied sciences (united states)",
+        "harvard university (united states)",
+        "harvard medical school (united states)",
+        "harvard university, united states (united states)",
+        "harvard university, cambridge, 02138, ma, united states (united states)",
+        "harvard university, cambridge, 02138, m.a., united states (united states)",
+        "harvard kennedy school (united states)"
     ],
     "Sun Moon University": [
         "sun moon university (south korea)"
@@ -2313,7 +2335,19 @@
     "Technical University of Munich (TUM)": [
         "tum (germany)",
         "tum, germany (germany)",
-        "technical university of munich (germany)"
+        "technical university of munich (germany)",
+        "tu munich, germany (germany)",
+        "tu munich, munich, germany (germany)",
+        "tu munich (germany)",
+        "school of engineering and design (germany)",
+        "technische universität münchen (germany)",
+        "the technical university of munich (germany)",
+        "tu münchen, am coulombwall 4, münchen, 85748, germany (germany)",
+        "tfp (germany)",
+        "tum school of computation, information and technology (germany)",
+        "design automation (germany)",
+        "munich data science institute (germany)",
+        "lehrstuhl für theoretische informationstechnik technische (germany)"
     ],
     "Technische Hochschule Mittelhessen (THM)": [
         "thm (germany)"
@@ -2540,12 +2574,11 @@
     "Applied Physics (Netherlands)": [
         "applied physics (netherlands)"
     ],
-    "Deloitte US (India)": [
+    "Deloitte": [
         "deloitte us (india)",
-        "deloitte (india)"
-    ],
-    "Deloitte Consulting LLP (United States)": [
-        "deloitte consulting llp (united states)"
+        "deloitte (india)",
+        "deloitte consulting llp (united states)",
+        "deloitte anjin llc (south korea)"
     ],
     "Center for Computational Simulation (Spain)": [
         "ccs center for computational simulation (spain)",
@@ -2668,11 +2701,6 @@
         "universität des saarlandes (germany)",
         "saarland university (germany)"
     ],
-    "Harvard John A. Paulson School of Engineering and Applied Sciences (United States)": [
-        "harvard paulson school of engineering and applied sciences (united states)",
-        "harvard john a. paulson school of engineering and applied sciences (united states)",
-        "john a. paulson school of engineering and applied sciences (united states)"
-    ],
     "National Centre for Scientific Research 'Demokritos' (Greece)": [
         "national center for scientific research (greece)",
         "national centre for scientific research (greece)",
@@ -2735,14 +2763,11 @@
         "admiral makarov national university of shipbuilding (ukraine)",
         "admiral makarov national university of shipbuilding (ukraine)"
     ],
-    "Amazon (United States)": [
-        "amazon (united states)"
-    ],
-    "Amazon Braket (United States)": [
-        "amazon), braket (united states)"
-    ],
-    "Amazon Web Services (United States)": [
-        "amazon web services (united states)"
+    "Amazon": [
+        "amazon (united states)",
+        "amazon), braket (united states)",
+        "amazon web services (united states)",
+        "amazon quantum solutions lab (united states)"
     ],
     "Pandit Deendayal Energy University (India)": [
         "pandit deendayal energy university, gandhinagar, india (india)",
@@ -3089,10 +3114,15 @@
         "inac, cea, france (france)",
         "inac (france)"
     ],
-    "Virginia Tech (United States)": [
+    "Virginia Tech": [
         "virginia tech, wireless@vt, arlington, 22203, va, united states (united states)",
         "virginia tech, wireless@vt, arlington, va, united states (united states)",
-        "wireless@vt, virginia tech, arlington, va, united states (united states)"
+        "wireless@vt, virginia tech, arlington, va, united states (united states)",
+        "virginia polytechnic institute and state university, blacksburg, va, united states (united states)",
+        "virginia tech, blacksburg, va, united states (united states)",
+        "virginia polytechnic institute and state university, blacksburg, 24061, va, united states (united states)",
+        "virginia tech, united states (united states)",
+        "virginia tech, blacksburg, 24061, va, united states (united states)"
     ],
     "University of St. Gallen (Switzerland)": [
         "university of st. (switzerland)"
@@ -3666,10 +3696,11 @@
         "sharda university (india)",
         "school of engineering & technology, sharda university, greater noida, india (india)"
     ],
-    "Harvard-Smithsonian Center for Astrophysics": [
+    "Harvard / Smithsonian": [
         "harvard mit center for ultracold atoms (united states)",
         "harvard   smithsonian center for astrophysics (united states)",
-        "harvard smithsonian center for astrophysics (united states)"
+        "harvard smithsonian center for astrophysics (united states)",
+        "center for astrophysics (united states)"
     ],
     "China Electronics Technology Group Corporation (CETC)": [
         "54th research institute of china electronics, technology group corporation (china)",
@@ -3715,10 +3746,6 @@
     ],
     "National Telecommunications Institute (NTI)": [
         "national telecommunications institute (egypt)"
-    ],
-    "MIT Research Laboratory of Electronics (RLE)": [
-        "research laboratory of electronics (united states)",
-        "research laboratory for electronics (united states)"
     ],
     "Galgotias University": [
         "galgotias university (india)",
@@ -4074,12 +4101,6 @@
         "the center for advanced computer studies (the center for advanced computer studies)",
         "center for advanced computer studies (center for advanced computer studies)"
     ],
-    "Research Institute for Advanced Computer Science (RIACS)": [
-        "research institute for advanced computer science (united states)",
-        "usra research institute for advanced computer science (usra research institute for advanced computer science)",
-        "usra research institute for advanced computer science (united states)",
-        "research institute of advanced computer science (united states)"
-    ],
     "Lomonosov Moscow State University": [
         "lomonosov msu (russian federation)",
         "lomonosov moscow state university (russian federation)",
@@ -4374,7 +4395,12 @@
     "TNO (Netherlands Organisation for Applied Scientific Research)": [
         "tno (netherlands)",
         "tno (tno)",
-        "tno, den haag, netherlands (netherlands)"
+        "tno, den haag, netherlands (netherlands)",
+        "tno/holst centre (netherlands)",
+        "tno, applied cryptography and quantum algorithms, the hague, 2595 da, netherlands (netherlands)",
+        "toegepast natuurwetenschappelijk onderzoek (netherlands)",
+        "tno technical sciences, delft, 2600 ad, netherlands (netherlands)",
+        "tno energy transition (netherlands)"
     ],
     "ITMO University": [
         "itmo university (russian federation)",
@@ -5101,9 +5127,6 @@
         "jefferson national laboratory (united states)",
         "jefferson laboratory (united states)"
     ],
-    "MIT Lincoln Laboratory": [
-        "lincoln laboratory (united states)"
-    ],
     "Institute for Information Transmission Problems (IITP RAS)": [
         "kharkevitch institute for information transmission problems (russian federation)",
         "institute for information transmission problems (russian federation)",
@@ -5379,7 +5402,10 @@
     "Sungkyunkwan University (SKKU)": [
         "sungkyunkwan univerisity, suwon, south korea (south korea)",
         "sungkyunkwan university (south korea)",
-        "sungkyunkwan university, seoul, 03060, south korea (south korea)"
+        "sungkyunkwan university, seoul, 03060, south korea (south korea)",
+        "skku advanced institute of nanotechnology, suwon, 16419, south korea (south korea)",
+        "skku (south korea)",
+        "skku (south korea)"
     ],
     "University of California, Santa Cruz (UCSC)": [
         "university california at santa cruz, santa cruz, 95064, ca, united states (united states)",
@@ -5573,8 +5599,18 @@
         "malla reddy engineering college for women (india)",
         "dhulapally malla reddy engineering college for women (india)"
     ],
-    "NIST Physical Measurement Laboratory": [
-        "physical measurement laboratory (united states)"
+    "NIST": [
+        "physical measurement laboratory (united states)",
+        "national institute of standards and technology (united states)",
+        "national institute for standards and technology (united states)",
+        "nist/university of maryland (united states)",
+        "national institute of standard and technology (united states)",
+        "nist (united states)",
+        "national institutes of standards and technology (united states)",
+        "national institute of standards & technology (united states)",
+        "the national institute of standards and technology (united states)",
+        "technical advisory committee on standards and performance metrics (united states)",
+        "quantum sensors division (united states)"
     ],
     "Laboratory for Physical Sciences (LPS)": [
         "laboratory of physical sciences (united states)"
@@ -5825,13 +5861,17 @@
     "IISER Thiruvananthapuram": [
         "indian institute of science education and research, thiruvananthapuram, 695551, india (india)"
     ],
-    "University of California, Los Angeles (UCLA)": [
+    "UCLA": [
         "ucla (ucla)",
         "ucla, los angeles, 90095, ca, united states (united states)",
         "ucla (united states)",
         "ucla, united states (united states)",
         "ucla, ca, united states (united states)",
-        "ucla school of law (united states)"
+        "ucla school of law (united states)",
+        "ucla center for quantum science and engineering (united states)",
+        "ucla, center for heterogeneous integration and performance scaling (united states)",
+        "ucla biostatistics (united states)",
+        "the b. john garrick institute for the risk sciences (united states)"
     ],
     "Leiden University": [
         "universiteit leiden (netherlands)",
@@ -5933,7 +5973,14 @@
         "eledia@tsinghua tsinghua university (china)",
         "tsinghua university, beijing, 100084, china (china)",
         "university of tsinghua of china (china)",
-        "tsinghua univ (china)"
+        "tsinghua univ (china)",
+        "tsinghua university, beijing national research center for information science and technology (china)",
+        "national research center for information, science and technology (china)",
+        "tsinghua national laboratory for information science and technology (china)",
+        "national research center for information science and technology (china)",
+        "beijing national research center for information science and technology (china)",
+        "tsinghua national laboratory of information science and technology (china)",
+        "bnrist (china)"
     ],
     "Dr. M.G.R. Educational and Research Institute": [
         "dr. m.g.r educational and research institute (india)",
@@ -6664,7 +6711,7 @@
         "universitá del salento (italy)",
         "university of salento (italy)"
     ],
-    "Massachusetts Institute of Technology": [
+    "Massachusetts Institute of Technology (MIT)": [
         "massachussetts institute of technology (united states)",
         "massachusets institute of technology (united states)",
         "massachussetts institute of technology (united states)",
@@ -6672,17 +6719,11 @@
         "massachusetts institute of technology, cambridge, 02139, ma, united states (united states)",
         "mit, 77 massachusetts avenue, cambridge, 02139, ma, united states (united states)",
         "massachusetts institute for of technology (united states)",
-        "massachusetts institute of technology, cambridge, united states (united states)"
-    ],
-    "National Institute of Standards and Technology": [
-        "national institute of standards and technology (united states)",
-        "national institute for standards and technology (united states)",
-        "nist/university of maryland (united states)",
-        "national institute of standard and technology (united states)",
-        "nist (united states)",
-        "national institutes of standards and technology (united states)",
-        "national institute of standards & technology (united states)",
-        "the national institute of standards and technology (united states)"
+        "massachusetts institute of technology, cambridge, united states (united states)",
+        "dr. vishwanath karad mit world peace university, india (india)",
+        "mit world peace university (india)",
+        "dr.vishwanath karad mit world peace university (india)",
+        "mit wpu (india)"
     ],
     "NIST University/Institute (India)": [
         "nist university (india)",
@@ -6886,7 +6927,9 @@
         "stanford university, ca, united states (united states)",
         "stanford university, ca, united states (united states)",
         "stanford (united states)",
-        "stanford university (united states)"
+        "stanford university (united states)",
+        "stanford medicine (united states)",
+        "stanford law school (united states)"
     ],
     "Friedrich–Alexander University Erlangen–Nuremberg": [
         "universität erlangen nürnberg (germany)",
@@ -7076,7 +7119,26 @@
         "riken rqc, saitama, wako, japan (japan)",
         "riken ithems, wako, japan (japan)",
         "riken ithems, saitama, wako, 351 0198, japan (japan)",
-        "riken, saitama, wako, 351 0198, japan (japan)"
+        "riken, saitama, wako, 351 0198, japan (japan)",
+        "riken center for emergent matter science (japan)",
+        "riken center for biosystems dynamics research (japan)",
+        "riken interdisciplinary theoretical and mathematical sciences (japan)",
+        "ithems (japan)",
+        "ithems program (japan)",
+        "riken center for accelerator based sciences (japan)",
+        "riken center for advanced intelligence project (japan)",
+        "riken aip, tokyo, 103 0027, japan (japan)",
+        "center for computational science (japan)",
+        "r ccs (japan)",
+        "r ccs, riken, japan (japan)",
+        "riken center for quantum computing (japan)",
+        "riken cems (japan)",
+        "cems (japan)",
+        "riken center for advanced photonics (japan)",
+        "riken center for computational science (japan)",
+        "riken cluster for pioneering research (japan)",
+        "riken advanced institute for computational science (japan)",
+        "riken innovation design office (japan)"
     ],
     "NVIDIA": [
         "nvidia (china)",
@@ -7089,7 +7151,10 @@
         "nvidia corporation ltd. (israel)",
         "nvidia research (israel)",
         "nvidia corporation (israel)",
-        "nvidia (israel)"
+        "nvidia (israel)",
+        "nvidia (denmark)",
+        "nvidia corp. (singapore)",
+        "nvidia g.k. (japan)"
     ],
     "New Mexico State University": [
         "new mexico state university (united states)",
@@ -7283,7 +7348,9 @@
         "ku leuven, belgium (belgium)",
         "ku leuven, leuven, b 3001, belgium (belgium)",
         "katholieke universiteit leuven (belgium)",
-        "ku leuven, leuven, belgium (belgium)"
+        "ku leuven, leuven, belgium (belgium)",
+        "university of leuven (belgium)",
+        "esat kasteelpark (belgium)"
     ],
     "University of Ferrara": [
         "university of ferrara (italy)",
@@ -7451,13 +7518,6 @@
     "University of Liverpool": [
         "university of liverpool (united kingdom)",
         "liverpool university (united kingdom)"
-    ],
-    "Virginia Tech": [
-        "virginia polytechnic institute and state university, blacksburg, va, united states (united states)",
-        "virginia tech, blacksburg, va, united states (united states)",
-        "virginia polytechnic institute and state university, blacksburg, 24061, va, united states (united states)",
-        "virginia tech, united states (united states)",
-        "virginia tech, blacksburg, 24061, va, united states (united states)"
     ],
     "Istituto Italiano di Tecnologia": [
         "iit (italy)",
@@ -7634,22 +7694,22 @@
         "college of technical engineering (iraq)",
         "college of engineering technology (iraq)"
     ],
-    "Technical University of Munich": [
-        "tu munich, germany (germany)",
-        "tu munich, munich, germany (germany)",
-        "tu munich (germany)",
-        "school of engineering and design (germany)",
-        "technische universität münchen (germany)",
-        "the technical university of munich (germany)",
-        "tu münchen, am coulombwall 4, münchen, 85748, germany (germany)",
-        "tfp (germany)",
-        "tum school of computation, information and technology (germany)"
-    ],
-    "Ludwig Maximilian University of Munich": [
+    "Ludwig Maximilian University of Munich (LMU)": [
         "lmu munich, germany (germany)",
         "lmu munich, munich, germany (germany)",
         "lmu (germany)",
-        "university of munich (germany)"
+        "university of munich (germany)",
+        "ludwig maximilian university of munich (germany)",
+        "ludwig maximilians universitat münchen (germany)",
+        "ludwig maximilians universität münchen (germany)",
+        "ludwig maximilians universiät (germany)",
+        "ludwig maximilians universität (germany)",
+        "ludwig maximilians universitüt (germany)",
+        "ludwig maximilian universität (germany)",
+        "ludwig maximilian university (germany)",
+        "ludwig maximilians university (germany)",
+        "mobile and distributed systems group (germany)",
+        "mnm team (germany)"
     ],
     "University of Nottingham": [
         "university of nottingham (united kingdom)",
@@ -7967,7 +8027,7 @@
         "king's college london (united kingdom)",
         "king's college london, london, wc2r 2ls, united kingdom (united kingdom)"
     ],
-    "King's College (General/Other)": [
+    "King's College London": [
         "king's college (uk)",
         "kings college (united kingdom)",
         "king’s college (united kingdom)",
@@ -8194,9 +8254,6 @@
         "university of liège (belgium)",
         "university of liege (belgium)",
         "sart tilman (belgium)"
-    ],
-    "University of Leuven": [
-        "university of leuven (belgium)"
     ],
     "University of Porto": [
         "university of porto (portugal)",
@@ -8892,7 +8949,8 @@
     "EY": [
         "ey global innovation quantum computing lab (spain)",
         "ey global innovation quantum computing lab (greece)",
-        "ey global innovation quantum computing lab (united states)"
+        "ey global innovation quantum computing lab (united states)",
+        "ernst & young (united states)"
     ],
     "SRM Institute of Science and Technology": [
         "s.r.m institute of science and technology (india)",
@@ -9000,20 +9058,25 @@
     "Purdue University": [
         "purdue university, west lafayette, 47907, in, united states (united states)",
         "purdue university (united states)",
-        "purdue univ. (united states)"
+        "purdue univ. (united states)",
+        "purdue quantum science and engineering institute (united states)",
+        "purdue university system (united states)",
+        "purdue university computer science (united states)"
     ],
-    "Fujitsu Research of America": [
+    "Fujitsu": [
         "fujitsu research of america, inc. (united states)",
         "fujitsu laboratories of americam inc. (united states)",
-        "fujitsu research of america (united states)"
-    ],
-    "Fujitsu Laboratories Ltd. (Japan)": [
+        "fujitsu research of america (united states)",
         "computing laboratory fujitsu limited (japan)",
-        "fujitsu laboratories ltd. (japan)"
-    ],
-    "Fujitsu Limited": [
+        "fujitsu laboratories ltd. (japan)",
         "fujitsu limited (japan)",
-        "fujitsu ltd (japan)"
+        "fujitsu ltd (japan)",
+        "fujitsu (germany)",
+        "fujitsu (spain)",
+        "fujitsu technology solutions gmbh (germany)",
+        "fujitsu research of europe (united kingdom)",
+        "fujitsu research of europe ltd. (united kingdom)",
+        "fujitsu research (japan)"
     ],
     "Budapest University of Technology and Economics": [
         "budapest university of technology and economics (hungary)",
@@ -9155,10 +9218,12 @@
     "Shanghai Jiaotong University": [
         "shanghai jiaotong university (china)"
     ],
-    "University of California, Davis": [
+    "UC Davis": [
         "university of california davis (united states)",
         "uc davis (united states)",
-        "university of california at davis (united states)"
+        "university of california at davis (united states)",
+        "davis (united states)",
+        "uc davis, davis, 95616, ca, united states (united states)"
     ],
     "Sichuan University": [
         "sichuan university of science and engineering (china)",
@@ -9202,7 +9267,6 @@
         "indian institue of technology (india)",
         "iit (india)",
         "iit kanpur (india)",
-        "iit delhi (india)"
     ],
     "University College London (UCL)": [
         "university college of london (united kingdom)",
@@ -9223,7 +9287,9 @@
         "imperial college, london, united kingdom (united kingdom)"
     ],
     "University of Oxford": [
-        "university of oxford (united kingdom)"
+        "university of oxford (united kingdom)",
+        "oxford college of engineering (india)",
+        "the oxford college of engineering (india)"
     ],
     "University of Montreal / Polytechnique Montréal": [
         "university of montreal (canada)",
@@ -9285,9 +9351,13 @@
         "shenzhen technology university (china)",
         "shenzhen polytechnic university (china)"
     ],
-    "University of California, San Diego (UCSD)": [
+    "UCSD": [
         "university of california san diego (united states)",
-        "university of california at san diego (united states)"
+        "university of california at san diego (united states)",
+        "uc san diego, la jolla, ca, united states (united states)",
+        "uc san diego, san diego, 92093, ca, united states (united states)",
+        "ucsd (united states)",
+        "92093, ca, united states (united states)"
     ],
     "San Diego State University (SDSU)": [
         "san diego state university (united states)"
@@ -9389,9 +9459,6 @@
         "iowa state university, ames, ia, united states (united states)",
         "ames national laboratory (united states)"
     ],
-    "RIKEN Center for Emergent Matter Science (CEMS)": [
-        "riken center for emergent matter science (japan)"
-    ],
     "China Mobile Research Institute": [
         "china mobile research institute (china)"
     ],
@@ -9413,13 +9480,6 @@
         "fraunhofer itwm (germany)",
         "fraunhofer institute for industrial mathematics (germany)",
         "itwm (germany)"
-    ],
-    "Harvard University": [
-        "harvard university (united states)",
-        "harvard medical school (united states)",
-        "harvard university, united states (united states)",
-        "harvard university, cambridge, 02138, ma, united states (united states)",
-        "harvard university, cambridge, 02138, m.a., united states (united states)"
     ],
     "University of Cambridge": [
         "university of cambridge (united kingdom)",
@@ -9445,9 +9505,14 @@
         "university of illinois at urbana champaign (united states)",
         "university of illinois urbana champaign (united states)"
     ],
-    "Georgia Institute of Technology (Georgia Tech)": [
+    "Georgia Tech": [
         "georgia tech (united states)",
-        "georgia institute of technology (united states)"
+        "georgia institute of technology (united states)",
+        "georgia institute of technology, atlanta, 30332, ga, united states (united states)",
+        "school of chemical & biomolecular engineering (united states)",
+        "791 atlantic dr nw, atlanta, 30332, ga, united states (united states)",
+        "school of chemistry and biochemistry (united states)",
+        "georgia tech research institute (united states)"
     ],
     "University of Southern California (USC)": [
         "university of southern california (united states)"
@@ -9481,14 +9546,18 @@
         "university of tennessee (united states)",
         "the university of tennessee (united states)"
     ],
-    "University of California, Berkeley (UC Berkeley)": [
+    "UC Berkeley": [
         "university of california at berkeley (united states)",
         "university of california berkeley (united states)",
         "uc berkeley (united states)"
     ],
     "Lawrence Berkeley National Laboratory (LBNL)": [
         "lawrence berkeley national laboratory (united states)",
-        "berkeley lab (united states)"
+        "berkeley lab (united states)",
+        "applied mathematics and computational research division (united states)",
+        "accelerator technlogy and applied physics (united states)",
+        "lbnl, berkeley, united states (united states)",
+        "e. o. lawrence berkeley laboratory (united states)"
     ],
     "University of Birmingham": [
         "university of birmingham (united kingdom)",
@@ -9497,9 +9566,6 @@
     ],
     "Norwegian University of Science and Technology (NTNU)": [
         "norwegian university of science and technology (norway)"
-    ],
-    "Massachusetts Institute of Technology (MIT)": [
-        "mit (united states)"
     ],
     "Pennsylvania State University (Penn State)": [
         "pennsylvania state university (united states)",
@@ -9514,7 +9580,7 @@
         "university of texas at san antonio (united states)",
         "the university of texas at san antonio (united states)"
     ],
-    "University of California, Los Angeles": [
+    "UCLA": [
         "university of california at los angeles (united states)",
         "university of california los angeles (united states)"
     ],
@@ -9596,10 +9662,6 @@
     ],
     "University of Kansas": [
         "university of kansas (united states)"
-    ],
-    "Oxford College of Engineering": [
-        "oxford college of engineering (india)",
-        "the oxford college of engineering (india)"
     ],
     "University of Electro-Communications": [
         "the university of electro communications (japan)",
@@ -10084,7 +10146,7 @@
     "Institut für Optik, Information und Photonik": [
         "institut für opti, information und photonik (germany)"
     ],
-    "Joint Quantum Institute (NIST/UMD)": [
+    "NIST / University of Maryland": [
         "quantum institute (united states)",
         "joint quantum institute (united states)",
         "nist joint quantum institute (united states)",
@@ -10521,14 +10583,6 @@
         "quantum computing project (japan)",
         "quantum information science and technology unit (japan)"
     ],
-    "BNRist (Tsinghua University)": [
-        "tsinghua university, beijing national research center for information science and technology (china)",
-        "national research center for information, science and technology (china)",
-        "tsinghua national laboratory for information science and technology (china)",
-        "national research center for information science and technology (china)",
-        "beijing national research center for information science and technology (china)",
-        "tsinghua national laboratory of information science and technology (china)"
-    ],
     "Beijing Computational Science Research Center (CSRC)": [
         "beijing computing research center (china)",
         "beijing computational science research center (china)"
@@ -10585,9 +10639,6 @@
     ],
     "Korea University of Technology and Education (KOREATECH)": [
         "korea university of technology and education (south korea)"
-    ],
-    "Korea Advanced Institute of Science and Technology (KAIST)": [
-        "korea advanced institute of science and technology (south korea)"
     ],
     "Japan Advanced Institute of Science and Technology (JAIST)": [
         "japan advanced institute of science and technology (japan)"
@@ -10854,17 +10905,6 @@
         "xi’an university of posts & telecommunications (china)",
         "xi’an university of posts and telecommunications (china)",
         "xi an university of posts and telecommunications (china)"
-    ],
-    "Ludwig Maximilian University of Munich (LMU)": [
-        "ludwig maximilian university of munich (germany)",
-        "ludwig maximilians universitat münchen (germany)",
-        "ludwig maximilians universität münchen (germany)",
-        "ludwig maximilians universiät (germany)",
-        "ludwig maximilians universität (germany)",
-        "ludwig maximilians universitüt (germany)",
-        "ludwig maximilian universität (germany)",
-        "ludwig maximilian university (germany)",
-        "ludwig maximilians university (germany)"
     ],
     "Faculty of Engineering (India)": [
         "faculty of engineering (india)",
@@ -11299,7 +11339,10 @@
     ],
     "TU Berlin": [
         "tu berlin, straße des 17. juni 135, berlin, 10623, germany (germany)",
-        "technische universität berlin (germany)"
+        "technische universität berlin (germany)",
+        "institute of solid state physics (germany)",
+        "tu berlin (germany)",
+        "technische universitat berlin (germany)"
     ],
     "Capitol Technology University": [
         "capitol technology university, united states (united states)",
@@ -11328,11 +11371,6 @@
     ],
     "Shahid Ashrafi Esfahani University": [
         "shahid ashrafi esfahani university (iran)"
-    ],
-    "UC San Diego": [
-        "uc san diego, la jolla, ca, united states (united states)",
-        "uc san diego, san diego, 92093, ca, united states (united states)",
-        "ucsd (united states)"
     ],
     "KL University": [
         "kl (india)"
@@ -11910,9 +11948,6 @@
     "Manipal Institute of Technology": [
         "manipal academy of higher education, manipal institute of technology, karnataka, manipal, 576104, india (india)"
     ],
-    "NIST": [
-        "technical advisory committee on standards and performance metrics (united states)"
-    ],
     "Fo Guang University": [
         "fo guang university (taiwan)"
     ],
@@ -11931,9 +11966,6 @@
     "Konkoly Observatory": [
         "konkoly thege m. út 29 (hungary)",
         "konkoly thege m. (hungary)"
-    ],
-    "RIKEN BDR": [
-        "riken center for biosystems dynamics research (japan)"
     ],
     "REETC": [
         "renewable energy and environmental technology center (saudi arabia)"
@@ -12461,10 +12493,6 @@
     ],
     "IUC": [
         "iuc (iraq)"
-    ],
-    "Georgia Tech": [
-        "georgia institute of technology, atlanta, 30332, ga, united states (united states)",
-        "school of chemical & biomolecular engineering (united states)"
     ],
     "UAB": [
         "uab (spain)"
@@ -13170,10 +13198,6 @@
     "EV Technologies": [
         "ev technologies (france)"
     ],
-    "Facebook": [
-        "facebook, inc. (united states)",
-        "facebook (united states)"
-    ],
     "Baylor University": [
         "baylor university (united states)",
         "baylor university, waco, tx, united states (united states)",
@@ -13344,9 +13368,6 @@
     ],
     "University of Semnan": [
         "university of semnan (iran)"
-    ],
-    "Holst Centre": [
-        "tno/holst centre (netherlands)"
     ],
     "Institute of Microelectronics": [
         "institute of microelectronics (singapore)",
@@ -14553,12 +14574,6 @@
     "Lok Maha Vidyalaya": [
         "lok maha vidyalaya, chapra, bihar, india (india)"
     ],
-    "MIT World Peace University": [
-        "dr. vishwanath karad mit world peace university, india (india)",
-        "mit world peace university (india)",
-        "dr.vishwanath karad mit world peace university (india)",
-        "mit wpu (india)"
-    ],
     "KSRM College of Engineering": [
         "ksrm college of engineering (india)"
     ],
@@ -15013,11 +15028,6 @@
     "Kuwait University": [
         "kuwait university (kuwait)"
     ],
-    "Fujitsu": [
-        "fujitsu (germany)",
-        "fujitsu (spain)",
-        "fujitsu technology solutions gmbh (germany)"
-    ],
     "Cosmic Discovery": [
         "cosmic discovery sdn bhd (malaysia)"
     ],
@@ -15428,9 +15438,6 @@
     "University of the Basque Country": [
         "university of the basque country (spain)",
         "universidad del país vasco (spain)"
-    ],
-    "UCLA Center for Quantum Science and Engineering": [
-        "ucla center for quantum science and engineering (united states)"
     ],
     "PulseX Research Institute": [
         "pulsex research institute (germany)"
@@ -15906,9 +15913,6 @@
     ],
     "Quantum Technologies Centre, MSU": [
         "quantum technologies centre, m. v. lomonosov moscow state university, leninskie gory 1, moscow, 119991, russian federation (russian federation)"
-    ],
-    "UCLA CHIPS": [
-        "ucla, center for heterogeneous integration and performance scaling (united states)"
     ],
     "NII": [
         "information systems architecture science research division (japan)"
@@ -17862,9 +17866,6 @@
     "Velar Voyage LLC": [
         "velar voyage llc (united states)"
     ],
-    "SAINT": [
-        "skku advanced institute of nanotechnology, suwon, 16419, south korea (south korea)"
-    ],
     "Institute of Vocational Education": [
         "institute of vocational education (thailand)"
     ],
@@ -17987,7 +17988,7 @@
         "mississippi state university, starkville, ms, united states (united states)",
         "mississippi state (united states)"
     ],
-    "Harvard-MIT": [
+    "Harvard / MIT": [
         "harvard mit (united states)"
     ],
     "Data Cybernetics SSC GmbH": [
@@ -18079,9 +18080,6 @@
     "Rio de Janeiro": [
         "rj (brazil)",
         "r. des. (brazil)"
-    ],
-    "Sungkyunkwan University": [
-        "skku (south korea)"
     ],
     "State Road": [
         "strada statale (italy)"
@@ -18369,11 +18367,9 @@
     "High Pressure and Synchrotron Radiation Physics Division": [
         "high pressure and synchrotron radiation physics division (india)"
     ],
-    "European Space Agency": [
-        "european space agency (italy)"
-    ],
-    "Visa Inc.": [
-        "visa inc (united states)"
+    "Visa": [
+        "visa inc (united states)",
+        "visa research (united states)"
     ],
     "University of Évry Val d'Essonne": [
         "université d'evry (france)"
@@ -18475,11 +18471,6 @@
     ],
     "University of Engineering and Technology, Taxila": [
         "university of engineering and technology at taxila (pakistan)"
-    ],
-    "RIKEN iTHEMS": [
-        "riken interdisciplinary theoretical and mathematical sciences (japan)",
-        "ithems (japan)",
-        "ithems program (japan)"
     ],
     "Commonwealth Edison": [
         "commonwealth edison (united states)"
@@ -18888,9 +18879,6 @@
     ],
     "Dallas Quantum Devices Inc": [
         "dallas quantum devices inc (united states)"
-    ],
-    "RIKEN Center for Accelerator-Based Sciences": [
-        "riken center for accelerator based sciences (japan)"
     ],
     "Mitsubishi Electric Research Laboratories": [
         "merl (united states)"
@@ -19454,10 +19442,6 @@
         "florida state university (united states)",
         "florida state universities (united states)"
     ],
-    "RIKEN AIP": [
-        "riken center for advanced intelligence project (japan)",
-        "riken aip, tokyo, 103 0027, japan (japan)"
-    ],
     "Fraunhofer CAP": [
         "fraunhofer centre for applied photonics (united kingdom)"
     ],
@@ -19646,11 +19630,6 @@
     ],
     "Pingdingshan University": [
         "pingdingshan university (china)"
-    ],
-    "TNO": [
-        "tno, applied cryptography and quantum algorithms, the hague, 2595 da, netherlands (netherlands)",
-        "toegepast natuurwetenschappelijk onderzoek (netherlands)",
-        "tno technical sciences, delft, 2600 ad, netherlands (netherlands)"
     ],
     "Department of Digital Systems": [
         "dept. of digital systems (greece)"
@@ -20247,9 +20226,6 @@
     "Ningbo University of Technology": [
         "ningbo university of technology (china)"
     ],
-    "UCSD": [
-        "92093, ca, united states (united states)"
-    ],
     "Royal College of Art": [
         "royal college of art (united kingdom)"
     ],
@@ -20351,9 +20327,6 @@
     ],
     "J.B. Speed School of Engineering": [
         "jb speed school of engineering (united states)"
-    ],
-    "Purdue Quantum Science and Engineering Institute": [
-        "purdue quantum science and engineering institute (united states)"
     ],
     "Griffith University": [
         "griffith university (australia)",
@@ -20651,9 +20624,6 @@
     ],
     "Bitlis Eren University": [
         "bitlis eren university (turkey)"
-    ],
-    "Fujitsu Research of Europe": [
-        "fujitsu research of europe (united kingdom)"
     ],
     "University of Exeter Law School": [
         "university of exeter law school (united kingdom)"
@@ -21303,9 +21273,6 @@
     "Mani L. Bhaumik Institute for Theoretical Physics": [
         "mani l. bhaumik institute for theoretical physics, los angeles, 90095, ca, united states (united states)"
     ],
-    "UCLA Biostatistics": [
-        "ucla biostatistics (united states)"
-    ],
     "Chongqing Normal University": [
         "chongqing normal university (china)"
     ],
@@ -21603,11 +21570,6 @@
     ],
     "Sect (Security Technologies)": [
         "sect (germany)"
-    ],
-    "RIKEN Center for Computational Science": [
-        "center for computational science (japan)",
-        "r ccs (japan)",
-        "r ccs, riken, japan (japan)"
     ],
     "Quantum (Company/Lab)": [
         "quantum (japan)"
@@ -22005,9 +21967,6 @@
     "Annasaheb Dange College of Engineering and Technology": [
         "annasaheb dange college of engineering and technology (india)"
     ],
-    "Georgia Tech (Institutional)": [
-        "791 atlantic dr nw, atlanta, 30332, ga, united states (united states)"
-    ],
     "OGS (National Institute of Oceanography and Applied Geophysics)": [
         "istituto nazionale di oceanografia e di geofisica sperimentale ogs (italy)"
     ],
@@ -22050,9 +22009,6 @@
     ],
     "Royal Meteorological Institute of Belgium": [
         "royal meteorological institute (belgium)"
-    ],
-    "UC Davis": [
-        "davis (united states)"
     ],
     "VPO (India)": [
         "vpo (india)"
@@ -22506,9 +22462,6 @@
     "University of Peshawar": [
         "university of peshawar (pakistan)"
     ],
-    "TNO Energy Transition": [
-        "tno energy transition (netherlands)"
-    ],
     "Iwate Prefectural University": [
         "iwate prefectural university (japan)"
     ],
@@ -22919,9 +22872,6 @@
     ],
     "Kadanoff Center for Theoretical Physics (UChicago)": [
         "kadanoff center for theoretical physics (united states)"
-    ],
-    "UC Davis (Duplicate)": [
-        "uc davis, davis, 95616, ca, united states (united states)"
     ],
     "University of Lorraine": [
         "université de lorraine (france)",
@@ -24046,9 +23996,6 @@
     ],
     "Agriculture and Agri-Food Canada": [
         "agriculture and agri food canada (canada)"
-    ],
-    "Ludwig Maximilian University": [
-        "mobile and distributed systems group (germany)"
     ],
     "California Nanosystems Institute": [
         "california nanosystems institute (united states)"
@@ -25331,9 +25278,6 @@
     "Chizhou University": [
         "chizhou university (china)"
     ],
-    "SKKU": [
-        "skku (cuba)"
-    ],
     "Medical Physics": [
         "medical physics graduate program (united states)"
     ],
@@ -25343,7 +25287,8 @@
     "UCLouvain": [
         "ucl crypto group (belgium)",
         "université catholique de louvain (belgium)",
-        "uclouvain (belgium)"
+        "uclouvain (belgium)",
+        "crypto group (belgium)"
     ],
     "Zhongyuan University of Technology": [
         "zhongyuan university of technology (china)"
@@ -25429,12 +25374,6 @@
     ],
     "Goa University": [
         "goa university (india)"
-    ],
-    "Lawrence Berkeley National Laboratory": [
-        "applied mathematics and computational research division (united states)",
-        "accelerator technlogy and applied physics (united states)",
-        "lbnl, berkeley, united states (united states)",
-        "e. o. lawrence berkeley laboratory (united states)"
     ],
     "Guangdong Pharmaceutical University": [
         "guangdong pharmaceutical university (china)"
@@ -25544,9 +25483,6 @@
     ],
     "Huaihua University": [
         "huaihua university (china)"
-    ],
-    "RIKEN Center for Quantum Computing": [
-        "riken center for quantum computing (japan)"
     ],
     "AQI, Inc.": [
         "aqi, inc. (united states)"
@@ -26157,9 +26093,6 @@
     "MISO": [
         "midcontinent independent system operator (united states)"
     ],
-    "Deloitte Anjin": [
-        "deloitte anjin llc (south korea)"
-    ],
     "Lab-STICC": [
         "lab sticc (france)"
     ],
@@ -26280,9 +26213,6 @@
     ],
     "RMKCET": [
         "r.m.k college of engg & tech (india)"
-    ],
-    "TU Munich": [
-        "design automation (germany)"
     ],
     "UNIMAS": [
         "universiti malaysia sarawak (malaysia)"
@@ -26896,9 +26826,6 @@
     "Raygun": [
         "raygun performance monitoring (new zealand)"
     ],
-    "NVIDIA Denmark": [
-        "nvidia (denmark)"
-    ],
     "Quasar Science Resources": [
         "quasar science resources (spain)",
         "quasar science resources sl (spain)"
@@ -27215,9 +27142,6 @@
     "Apostelle": [
         "apostelle overseas education (india)"
     ],
-    "Amazon Quantum Solutions Lab": [
-        "amazon quantum solutions lab (united states)"
-    ],
     "City University of New York": [
         "cuny (united states)"
     ],
@@ -27329,7 +27253,8 @@
         "world peace university (india)"
     ],
     "IIT Delhi": [
-        "indian institute of technology delhi, new delhi, 110016, india (india)"
+        "indian institute of technology delhi, new delhi, 110016, india (india)",
+        "iit delhi (india)"
     ],
     "Karkinos Healthcare": [
         "karkinos healthcare (india)"
@@ -27498,9 +27423,6 @@
     "Oklahoma State University": [
         "oklahoma state university (united states)"
     ],
-    "Stanford Medicine": [
-        "stanford medicine (united states)"
-    ],
     "Amity University Gwalior": [
         "amity university, amity school of engineering and technology, gwalior, 474005, india (india)"
     ],
@@ -27617,9 +27539,6 @@
     ],
     "Texas Southern University": [
         "texas southern university (united states)"
-    ],
-    "Visa Research": [
-        "visa research (united states)"
     ],
     "TÉLUQ University": [
         "teluq university (canada)"
@@ -28624,10 +28543,6 @@
     "ITRI": [
         "electronic and optoelectronic system research laboratories (taiwan)"
     ],
-    "RIKEN CEMS": [
-        "riken cems (japan)",
-        "cems (japan)"
-    ],
     "Information and Artificial Intelligence": [
         "information and artificial intelligence (china)"
     ],
@@ -28943,9 +28858,6 @@
     "Quantum Resources and Careers": [
         "quantum resources and careers (united kingdom)"
     ],
-    "MNM Team (LMU Munich)": [
-        "mnm team (germany)"
-    ],
     "AKPC Mahavidyalaya": [
         "akpc mahavidyalaya (india)"
     ],
@@ -29167,9 +29079,6 @@
     "National Institute of Technology, Gifu College": [
         "gifu college (japan)"
     ],
-    "NIST (Quantum Sensors Division)": [
-        "quantum sensors division (united states)"
-    ],
     "Pimpri Chinchwad College of Engineering and Research (PCCOER)": [
         "pccoer (india)"
     ],
@@ -29326,9 +29235,6 @@
     ],
     "Japan Tobacco Inc.": [
         "japan tobacco inc. (japan)"
-    ],
-    "Institute of Solid State Physics (TU Berlin)": [
-        "institute of solid state physics (germany)"
     ],
     "National Science and Technology Council": [
         "ministry of science and technology (taiwan)",
@@ -29566,9 +29472,6 @@
     "Quantum Algorithms Institute": [
         "quantum algorithms institute (canada)"
     ],
-    "EY (Ernst & Young)": [
-        "ernst & young (united states)"
-    ],
     "Kharazmi University": [
         "kharazmi university (iran)"
     ],
@@ -29723,9 +29626,6 @@
     "Quantum Engineering Solutions": [
         "quantum engineering solutions (sweden)"
     ],
-    "UCLA (Garrick Institute)": [
-        "the b. john garrick institute for the risk sciences (united states)"
-    ],
     "cfaed (Center for Advancing Electronics Dresden)": [
         "centre for advancing electronics (germany)"
     ],
@@ -29734,9 +29634,6 @@
     ],
     "IIIT (International Institute of Information Technology)": [
         "the international institute of information technology (india)"
-    ],
-    "Tsinghua University (BNRist)": [
-        "bnrist (china)"
     ],
     "Jilin Engineering Laboratory": [
         "jilin engineering laboratory for quantum information technology (china)"
@@ -29804,9 +29701,6 @@
     ],
     "G.L. Bajaj Group of Institutions": [
         "g l bajaj group of institutions, mathura, india (india)"
-    ],
-    "Munich Data Science Institute (TUM)": [
-        "munich data science institute (germany)"
     ],
     "Elisa Corporation": [
         "elisa corporation (finland)"
@@ -30475,9 +30369,6 @@
     "Coimbatore": [
         "tamil nadu, coimbatore, india (india)"
     ],
-    "RIKEN Center for Advanced Photonics": [
-        "riken center for advanced photonics (japan)"
-    ],
     "Staffordshire University": [
         "staffordshire university (united kingdom)"
     ],
@@ -30636,9 +30527,6 @@
     "Yevhenii Bereznyak Military Academy": [
         "yevhenii bereznyak military academy (ukraine)"
     ],
-    "MIT Center for Theoretical Physics": [
-        "mit center for theoretical physics (united states)"
-    ],
     "Zagazig University": [
         "zagazig university (egypt)"
     ],
@@ -30656,9 +30544,6 @@
     ],
     "ZJU-Hangzhou Global Scientific and Technological Innovation Center": [
         "zju hangzhou global scientific and technological innovation center (china)"
-    ],
-    "RIKEN R-CCS": [
-        "riken center for computational science (japan)"
     ],
     "Parmenides Foundation": [
         "parmenides stiftung (germany)"
@@ -31665,9 +31550,6 @@
     "Imperial College Healthcare NHS Trust": [
         "imperial college london nhs trust (united kingdom)"
     ],
-    "NVIDIA Corporation": [
-        "nvidia corp. (singapore)"
-    ],
     "Charles Sturt University": [
         "charles sturt university (australia)"
     ],
@@ -32416,9 +32298,6 @@
     "Doshisha University": [
         "doshisha university (japan)"
     ],
-    "Fujitsu Research of Europe Ltd.": [
-        "fujitsu research of europe ltd. (united kingdom)"
-    ],
     "Kamala Institute of Technology and Science": [
         "kamala institute of technology and science (india)"
     ],
@@ -32598,9 +32477,6 @@
     "Dept. of Telecommunications Engineering": [
         "dept. of telecomm. eng (spain)"
     ],
-    "Fujitsu Research": [
-        "fujitsu research (japan)"
-    ],
     "ASL VT Medical Physics Laboratory": [
         "asl vt medical physics laboratory (italy)"
     ],
@@ -32660,9 +32536,6 @@
     ],
     "IKS": [
         "iks (germany)"
-    ],
-    "Harvard Kennedy School": [
-        "harvard kennedy school (united states)"
     ],
     "INNOVENT": [
         "innovent e.v. technologieentwicklung,  (germany)"
@@ -33310,9 +33183,6 @@
     "Institute of Chemistry": [
         "institut für chemie (germany)"
     ],
-    "Stanford Law School": [
-        "stanford law school (united states)"
-    ],
     "TCL Corporate Research": [
         "tcl corporate research (china)"
     ],
@@ -33464,10 +33334,6 @@
     "Utica University": [
         "school of business and justice studies, utica college, united states (united states)",
         "utica university, utica, 13502, ny, united states (united states)"
-    ],
-    "Technical University of Berlin": [
-        "tu berlin (germany)",
-        "technische universitat berlin (germany)"
     ],
     "University of Agriculture": [
         "university of agriculture (pakistan)"
@@ -33682,9 +33548,6 @@
     "J. Heyrovský Institute of Physical Chemistry": [
         "j. heyrovský institute of physical chemistry (czech republic)"
     ],
-    "RIKEN Cluster for Pioneering Research": [
-        "riken cluster for pioneering research (japan)"
-    ],
     "UNSW School of Civil and Environmental Engineering": [
         "school of civil and environmental engineering (australia)"
     ],
@@ -33767,17 +33630,11 @@
     "Sher-e-Bangla Agricultural University": [
         "sher e bangla agricultural university (bangladesh)"
     ],
-    "Center for Astrophysics | Harvard & Smithsonian": [
-        "center for astrophysics (united states)"
-    ],
     "MTS": [
         "métodos y tecnología de sistemas y procesos, madrid, spain (spain)"
     ],
     "National Academy of Sciences of Belarus": [
         "nas of belarus (belarus)"
-    ],
-    "ESAT, KU Leuven": [
-        "esat kasteelpark (belgium)"
     ],
     "Kwangwoon University": [
         "kwangwoon university (south korea)"
@@ -33793,9 +33650,6 @@
     ],
     "Institute for Machine Tools and Control Engineering": [
         "institute for machine tools and control engineering (germany)"
-    ],
-    "Georgia Tech School of Chemistry and Biochemistry": [
-        "school of chemistry and biochemistry (united states)"
     ],
     "American Society for Investigative Pathology": [
         "american society of investigative pathology (united states)"
@@ -33898,9 +33752,6 @@
     ],
     "ISCTE - Instituto Universitário de Lisboa": [
         "iscte   instituto (portugal)"
-    ],
-    "Purdue University System": [
-        "purdue university system (united states)"
     ],
     "New Technologies and China": [
         "new technologies and china (germany)"
@@ -34028,9 +33879,6 @@
     "Kanchev University Hospital": [
         "kanchev university hospital (bulgaria)"
     ],
-    "RIKEN Advanced Institute for Computational Science": [
-        "riken advanced institute for computational science (japan)"
-    ],
     "GaN Optoelectronic Integration International Cooperation Joint Laboratory": [
         "gan optoelectronic integration international cooperation joint laboratory of jiangsu province (china)"
     ],
@@ -34078,9 +33926,6 @@
     ],
     "Dept. of Computer Science and Technology": [
         "dept. of computer science and technology (china)"
-    ],
-    "NVIDIA G.K.": [
-        "nvidia g.k. (japan)"
     ],
     "Southwestern Institute of Physics": [
         "southwestern institute of physics (china)"
@@ -34394,9 +34239,6 @@
     "Japan Science and Technology Agency": [
         "japan science and technology agency (japan)"
     ],
-    "RIKEN Innovation Design Office": [
-        "riken innovation design office (japan)"
-    ],
     "Manonmaniam Sundaranar University": [
         "manonmaniam sundaranar university (india)"
     ],
@@ -34703,9 +34545,6 @@
     "Maharshi Dayanand Saraswati University": [
         "mds university, ajmer, india (india)"
     ],
-    "UCLouvain Crypto Group": [
-        "crypto group (belgium)"
-    ],
     "National Technical University of Athens": [
         "national technical university of athens (greece)"
     ],
@@ -34741,9 +34580,6 @@
     ],
     "Applied Quantum Systems": [
         "applied quantum systems (germany)"
-    ],
-    "Georgia Tech Research Institute": [
-        "georgia tech research institute (united states)"
     ],
     "Universitas": [
         "universitas (indonesia)"
@@ -35197,9 +35033,6 @@
     "Institute for Smart City of Chongqing University": [
         "institute for smart city of chongqing university (china)"
     ],
-    "Purdue University Department of Computer Science": [
-        "purdue university computer science (united states)"
-    ],
     "Carleton College": [
         "carleton college (united states)"
     ],
@@ -35575,9 +35408,6 @@
     "Isra University": [
         "isra university (jordan)"
     ],
-    "Technical University of Munich, Chair of Theoretical Information Technology": [
-        "lehrstuhl für theoretische informationstechnik technische (germany)"
-    ],
     "INFN Sezione di Firenze": [
         "sezione di firenze (italy)"
     ],
@@ -35872,7 +35702,7 @@
     "Queen's University": [
         "queen's university, engineering physics and astronomy, kingston, k7l 3n6, on, canada (canada)"
     ],
-    "HKU-Oxford Joint Laboratory for Quantum Information and Computation": [
+    "HKU / Oxford University": [
         "hku oxford joint laboratory for quantum information and computation (united kingdom)"
     ],
     "JUNIA": [
