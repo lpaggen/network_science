@@ -1,27 +1,25 @@
-import spacy
-import unicodedata
+import json
+from ast import literal_eval
+import pandas as pd
+import llm_extract_orgs
 
-nlp = spacy.load("en_core_web_trf")
 
-def strip_accents(s: str) -> str:
-    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+# constants
+PATH_TO_CSV = ""  # scientific publication dataset path
+PATH_OUTPUT_DATA = ""  # where to save the .json map of orgs to extracted orgs
 
-def clean_affiliations(raw: str) -> list:
-    raw = raw.strip().replace("-", " ")
-    results = []
-    for aff in [a.strip() for a in raw.split(";") if a.strip()]:
-        parts = [p.strip() for p in aff.split(",")]
-        if not parts:
-            continue
-        country = parts[-1]
-        doc = nlp(aff)
-        orgs = [ent.text for ent in doc.ents if ent.label_ == "ORG"]
-        if not orgs:
-            results.append(f"{aff} ({country})")
-            continue
-        selected = orgs[-1].strip()
-        if "department" in selected.lower():
-            results.append(f"{aff} ({country})")
-            continue
-        results.append(f"{selected} ({country})")
-    return results
+def main():
+    df = pd.read_csv(PATH_TO_CSV)
+    df['Affiliations'] = df['Affiliations'].apply(lambda x : literal_eval(x))
+    df['Affiliations'] = df['Affiliations'].split('; ')
+    aff_list = []
+    for i in df['Affiliations']:
+        for j in i:
+            aff_list.append(j)
+    out = llm_extract_orgs.batch_canonicalize(aff_list)
+    with open(PATH_OUTPUT_DATA, 'w') as f:
+        json.dump(out, f)
+
+if __name__ == "__main__":
+    main()
+# EOF
